@@ -2,7 +2,7 @@
 "name" : "味難易度表",
 "symbol" : "味",
 "data_url" : "https://script.google.com/macros/s/AKfycbw_EpxyhhT9FwBTCC9vE1Sq3VBZd5-ykxJWCTGEFX6PAqfbW6dfY4BevNcyiGYzzOzb/exec",
-"course":[ {"name":"味段位サンプル","constraint":["grade_mirror","gauge_lr2",""],"md5": ["809dbaf95e338996c7443b1c200368cf"]}
+"course":[ {"name":"味段位サンプル","constraint":["grade_mirror","gauge_lr2","","","LN"],"md5": ["809dbaf95e338996c7443b1c200368cf"]}
 ]
   
   }
