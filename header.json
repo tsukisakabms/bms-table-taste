@@ -2,7 +2,15 @@
 "name" : "味難易度表",
 "symbol" : "味",
 "data_url" : "https://script.google.com/macros/s/AKfycbw_EpxyhhT9FwBTCC9vE1Sq3VBZd5-ykxJWCTGEFX6PAqfbW6dfY4BevNcyiGYzzOzb/exec",
-"course":[ {"name":"味段位サンプル","constraint":["grade_mirror","gauge_lr2",""],"md5": ["809dbaf95e338996c7443b1c200368cf"]}
+"course":[ 
+  {"name":"味難易度表2025 見習い","constraint":["grade_mirror","gauge_lr2",""],"md5": ["91acdce5f07e5451ece71d3c78c8d342","23ab171ae8c6465c8c67934fca07af10","8fd349d098901720056daf5ca35ec199","f32f725877814178c3413b5ee9da62a0"]},
+  {"name":"味難易度表2025 ★ 1つ星","constraint":["grade_mirror","gauge_lr2",""],"md5": ["3c14a64a56cfb6e852499c1a8228bea5","1f008be3e2808ecf7de41c3f8db80131","dd32f33b5a2893f5518d767efec55f96","d370debc492f547f0a3dbeff48f033e3"]},
+  {"name":"味難易度表2025 ★★ 2つ星","constraint":["grade_mirror","gauge_lr2",""],"md5": ["a82018a5bddf40604ad93b1927e7b65b","ef0ccb03e57d107614c0d21f451476e1","a3d5675fc6464ea75c9aecab8995c706","e1bd1d999a8d1ff5df27cc8ed60e840a"]},
+  {"name":"味難易度表2025 ★★★ 3つ星","constraint":["grade_mirror","gauge_lr2",""],"md5": ["3b1306d0a4fe7803bd8e7a7f3b469596","761056a2634f9c6730ed0e2ab4791c3e","bd39e096fef2f903ab539a9da04338e8","f0052cbf695f207b1133197d8ef58247"]},
+  {"name":"味難易度表2025 ★★★★ ４つ星","constraint":["grade_mirror","gauge_lr2",""],"md5": ["3b18cda0e734332f9c2b7e0561d4c7ba","d5a10c86699c55a0a06f0784f0f8dc4a","0c6f7d2b145fac062f1021c3abb4b8c3","00529202cdb435dadc29093bfeef2afc"]},
+  {"name":"味難易度表2025 ★★★★★ 5つ星","constraint":["grade_mirror","gauge_lr2",""],"md5": ["072b64d615c2f6766e9fb3583ef1fee6","652deda216b4d0c8f24300007ebc639a","01bcae63aa803e21e9c051bec59663a1","14c0589ec9c3dda41ca8c0bc5ea17068"]},
+  {"name":"味難易度表2025 『変な店』","constraint":["grade_mirror","gauge_lr2",""],"md5": ["9bd1e6e3c2615a461992a73b93f815b5","c6c05ae91aac9acc846204b26d52f65b","64c8c901bf393ee2a1ea41a7556e8035","79a13c610b502e1ad2c6fb3bd1e77549"]}
+
 ]
   
   }
